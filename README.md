@@ -21,10 +21,6 @@ License
 Features
 Sentiment Analysis: Uses NLTK's VADER to determine the sentiment of user inputs.
 
-Mental Health Tips: Provides supportive tips based on the detected emotional tone.
-
-Symptom Diagnosis: Matches user input with common symptom keywords to suggest possible conditions.
-
 Modular Structure: Organized into modules for clarity and maintainability.
 
 Streamlit Interface: Interactive, real-time conversational interface using Streamlit.
@@ -63,7 +59,7 @@ Clone the Repository:
 bash
 Copy
 Edit
-git clone https://github.com/your_username/mental_health_chatbot.git
+git clone https://github.com/GaneshN523/Sentiment_Analysis_Chatbot.git
 cd mental_health_chatbot
 Install Dependencies:
 
